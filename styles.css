@@ -1,0 +1,36 @@
+body {
+    background: lightgray;
+    margin: 0;
+    font-family: "Courier New", Courier, monospace;
+  }
+  header {
+    background: white;
+    padding: 10px;
+  }
+  header h1 {
+    margin: 0;
+  }
+  div.container {
+    width: 600px;
+    margin: auto;
+  }
+  div.post {
+    background: white;
+    margin: 10px;
+  }
+  div.post h2,
+  p {
+    display: inline-block;
+    width: 80%;
+    padding: 10px;
+  }
+  div.post span {
+    width: 20%;
+    padding: 0px;
+    text-align: right;
+    color: grey;
+  }
+  div.post img {
+    width: 100%;
+  }
+  
